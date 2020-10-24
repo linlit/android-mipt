@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MIPT Practice</string>
+    <string name="open_profile">Open profile</string>
+    <string name="username_test">Some name</string>
+    <string name="send_email">Send email</string>
+    <string name="user_photo">User photo</string>
+    <string name="fill_hint">User description to edit</string>
 </resources>
