@@ -5,4 +5,7 @@
     <string name="send_email">Send email</string>
     <string name="user_photo">User photo</string>
     <string name="fill_hint">User description to edit</string>
+    <string name="short_text">In this Spanish name, the first or paternal family name is Rodríguez de Silva and the second or maternal family name is Velázquez…</string>
+    <string name="longer_text">Diego Rodríguez de Silva y Velázquez[a] (baptized June 6, 1599 – August 6, 1660) was a Spanish painter, the leading artist in the court of King Philip IV and of the Spanish Golden Age. He was an individualistic artist of the contemporary Baroque period. He began to paint in a precise tenebrist style, later developing a freer manner characterized by bold brushwork. In addition to numerous renditions of scenes of historical and cultural significance,</string>
+    <string name="card_date">12.12.2020</string>
 </resources>
